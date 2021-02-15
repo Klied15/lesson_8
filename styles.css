@@ -23,3 +23,7 @@ h3 {
 ul {
     list-style-type: circle;
 }
+
+p.img {
+    text-align: center;
+}
